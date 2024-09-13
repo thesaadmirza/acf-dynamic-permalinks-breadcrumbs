@@ -1,0 +1,26 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Saad Mirza
+# This file is distributed under the same license as the ACF Dynamic Permalinks and Breadcrumbs plugin.
+# FIRST AUTHOR info@saadmirza.net, YEAR.
+#
+#, fuzzy
+"Project-Id-Version: ACF Dynamic Permalinks and Breadcrumbs 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/thesaadmirza/acf-dynamic-permalinks-breadcrumbs/issues\n"
+"POT-Creation-Date: 2023-10-25 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME info@saadmirza.net\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: acf-dynamic-permalinks-breadcrumbs\n"
+
+#: acf-dynamic-permalinks-breadcrumbs.php:83
+msgid "Home"
+msgstr ""
+
+#: acf-dynamic-permalinks-breadcrumbs.php:85
+msgid "uncategorized"
+msgstr ""
