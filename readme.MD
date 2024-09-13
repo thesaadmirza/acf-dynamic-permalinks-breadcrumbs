@@ -1,18 +1,3 @@
-=== ACF Dynamic Permalinks and Breadcrumbs ===
-Contributors: thesaadmirza
-Donate link: https://github.com/thesaadmirza
-Tags: acf, permalinks, breadcrumbs, custom post types, taxonomies, nested categories
-Requires at least: 5.0
-Tested up to: 6.3
-Requires PHP: 7.0
-Stable tag: 1.0.0
-License: GPL v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-Replaces taxonomy placeholders in permalinks and adjusts breadcrumbs for ACF-registered custom post types and taxonomies, including nested categories.
-
-== Description ==
-
 **ACF Dynamic Permalinks and Breadcrumbs** enhances the functionality of custom post types and taxonomies registered via the Advanced Custom Fields (ACF) plugin.
 
 This plugin automatically:
